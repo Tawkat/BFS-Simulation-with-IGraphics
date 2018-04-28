@@ -1,0 +1,4 @@
+﻿  BFS26.cpp
+h:\books\l1t2\c sess\igraphics\igraphics\igraphics.h(104): warning C4101: 'k' : unreferenced local variable
+  LINK : H:\BOOKS\L1T2\C sess\IGraphics\Debug\IGraphics.exe not found or not built by the last incremental link; performing full link
+  IGraphics.vcxproj -> H:\BOOKS\L1T2\C sess\IGraphics\Debug\IGraphics.exe
